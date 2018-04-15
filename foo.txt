@@ -3,6 +3,7 @@ MasterBranch
 This line is added via hotfix branch.
 This line is added from web portal to see when remote repository moves ahead of local master, then how to merge one's local branch to remote.
 This line is added locally to simulate conflict with web editing.
+New line added from web portal directly to see how to handle conflics in merging.
 This is written for first commit in the file
 This is being done on second commit.
 This line is added from web portal to replicate work done via others on the master branch.
